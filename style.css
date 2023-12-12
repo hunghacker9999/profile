@@ -338,6 +338,7 @@ body {
 /* //////////////// */
 
 .profile {
+  opacity: 0.4;
   height: 470px;
   width: 350px;
   /* border: 2px solid;
